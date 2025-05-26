@@ -102,7 +102,7 @@ engagement_score
 
 attendance_percentage
 
-Students who studied more, maintained good health, and limited screen time consistently performed better.
+- Students who studied more, maintained good health, and limited screen time consistently performed better.
 
 **B. Cluster Profiling**
 
@@ -133,4 +133,4 @@ Tree-based models had higher accuracy but lower interpretability compared to lin
 
 - **README.md** – Project summary
 
-- **Visuals/ **– Folder containing all saved plots
+- **Visuals/**– Folder containing all saved plots
